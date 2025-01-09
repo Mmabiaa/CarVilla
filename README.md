@@ -12,7 +12,7 @@ CarVilla is an open-source, one-page Bootstrap 3-based car dealer and automotive
 
 ## Live Demo
 
-Check out the live demo of CarVilla [here](https://www.free-css.com/free-css-templates/page296/carvilla).
+Check out the live demo of CarVilla [here](https://https://car-villa-wine.vercel.app).
 
 ## Installation
 
